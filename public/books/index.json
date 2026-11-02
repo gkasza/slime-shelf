@@ -1,0 +1,326 @@
+[
+ {
+  "id": "alice-in-wonderland",
+  "title": "Alice's Adventures in Wonderland",
+  "author": "Lewis Carroll",
+  "cover": "books/alice-in-wonderland/cover.jpg",
+  "level": "Grade 6",
+  "pageCount": 187,
+  "words": 26799
+ },
+ {
+  "id": "anne-of-green-gables",
+  "title": "Anne of Green Gables",
+  "author": "L. M. Montgomery",
+  "cover": "books/anne-of-green-gables/cover.jpg",
+  "level": "Grade 6-7",
+  "pageCount": 673,
+  "words": 102658
+ },
+ {
+  "id": "benjamin-bunny",
+  "title": "The Tale Of Benjamin Bunny",
+  "author": "Beatrix Potter",
+  "cover": "books/benjamin-bunny/cover.jpg",
+  "level": "Grade 3-4",
+  "pageCount": 30,
+  "words": 1508
+ },
+ {
+  "id": "black-beauty",
+  "title": "Black Beauty",
+  "author": "Anna Sewell",
+  "cover": "books/black-beauty/cover.jpg",
+  "level": "Grade 6",
+  "pageCount": 371,
+  "words": 60386
+ },
+ {
+  "id": "book-of-dragons",
+  "title": "The Book of Dragons",
+  "author": "E. Nesbit",
+  "cover": "books/book-of-dragons/cover.jpg",
+  "level": "Grade 5",
+  "pageCount": 295,
+  "words": 42166
+ },
+ {
+  "id": "childs-picture-book",
+  "title": "The Child's Picture Book",
+  "author": "Anonymous",
+  "cover": "books/childs-picture-book/cover.jpg",
+  "level": "Picture book",
+  "pageCount": 17,
+  "words": 462
+ },
+ {
+  "id": "doctor-dolittle",
+  "title": "The Story of Doctor Dolittle",
+  "author": "Hugh Lofting",
+  "cover": "books/doctor-dolittle/cover.jpg",
+  "level": "Grade 4-5",
+  "pageCount": 212,
+  "words": 26371
+ },
+ {
+  "id": "enchanted-castle",
+  "title": "The Enchanted Castle",
+  "author": "E. Nesbit",
+  "cover": "books/enchanted-castle/cover.jpg",
+  "level": "Grade 6",
+  "pageCount": 512,
+  "words": 66877
+ },
+ {
+  "id": "five-children-and-it",
+  "title": "Five Children and It",
+  "author": "E. Nesbit",
+  "cover": "books/five-children-and-it/cover.jpg",
+  "level": "Grade 5-6",
+  "pageCount": 368,
+  "words": 53982
+ },
+ {
+  "id": "flopsy-bunnies",
+  "title": "The Tale Of Flopsy Bunnies",
+  "author": "Beatrix Potter",
+  "cover": "books/flopsy-bunnies/cover.jpg",
+  "level": "Grade 3-4",
+  "pageCount": 33,
+  "words": 1395
+ },
+ {
+  "id": "ginger-and-pickles",
+  "title": "The Tale Of Ginger and Pickles",
+  "author": "Beatrix Potter",
+  "cover": "books/ginger-and-pickles/cover.jpg",
+  "level": "Grade 3-4",
+  "pageCount": 36,
+  "words": 1536
+ },
+ {
+  "id": "jemima-puddle-duck",
+  "title": "The Tale of Jemima Puddle-Duck",
+  "author": "Beatrix Potter",
+  "cover": "books/jemima-puddle-duck/cover.jpg",
+  "level": "Grade 3-4",
+  "pageCount": 31,
+  "words": 1630
+ },
+ {
+  "id": "jeremy-fisher",
+  "title": "The Tale Of Mr. Jeremy Fisher",
+  "author": "Beatrix Potter",
+  "cover": "books/jeremy-fisher/cover.jpg",
+  "level": "Grade 3-4",
+  "pageCount": 33,
+  "words": 1185
+ },
+ {
+  "id": "jungle-book",
+  "title": "The Jungle Book",
+  "author": "Rudyard Kipling",
+  "cover": "books/jungle-book/cover.jpg",
+  "level": "Grade 7",
+  "pageCount": 358,
+  "words": 51543
+ },
+ {
+  "id": "just-so-stories",
+  "title": "Just So Stories",
+  "author": "Rudyard Kipling",
+  "cover": "books/just-so-stories/cover.jpg",
+  "level": "Grade 4-6",
+  "pageCount": 192,
+  "words": 27582
+ },
+ {
+  "id": "looking-glass",
+  "title": "Through the Looking-glass",
+  "author": "Lewis Carroll",
+  "cover": "books/looking-glass/cover.jpg",
+  "level": "Grade 7",
+  "pageCount": 217,
+  "words": 30159
+ },
+ {
+  "id": "miss-moppet",
+  "title": "The Story Of Miss Moppet",
+  "author": "Beatrix Potter",
+  "cover": "books/miss-moppet/cover.jpg",
+  "level": "Grade 3-4",
+  "pageCount": 20,
+  "words": 616
+ },
+ {
+  "id": "mr-tod",
+  "title": "The Tale Of Mr. Tod",
+  "author": "Beatrix Potter",
+  "cover": "books/mr-tod/cover.jpg",
+  "level": "Grade 4",
+  "pageCount": 66,
+  "words": 5428
+ },
+ {
+  "id": "mrs-tiggy-winkle",
+  "title": "The Tale Of Mrs. Tiggy-winkle",
+  "author": "Beatrix Potter",
+  "cover": "books/mrs-tiggy-winkle/cover.jpg",
+  "level": "Grade 3-4",
+  "pageCount": 32,
+  "words": 1766
+ },
+ {
+  "id": "mrs-tittlemouse",
+  "title": "The Tale of Mrs. Tittlemouse",
+  "author": "Beatrix Potter",
+  "cover": "books/mrs-tittlemouse/cover.jpg",
+  "level": "Grade 3-4",
+  "pageCount": 34,
+  "words": 1593
+ },
+ {
+  "id": "peter-pan",
+  "title": "Peter Pan",
+  "author": "J. M. Barrie",
+  "cover": "books/peter-pan/cover.jpg",
+  "level": "Grade 6",
+  "pageCount": 330,
+  "words": 47525
+ },
+ {
+  "id": "peter-rabbit",
+  "title": "The Tale of Peter Rabbit",
+  "author": "Beatrix Potter",
+  "cover": "books/peter-rabbit/cover.jpg",
+  "level": "Grade 3-4",
+  "pageCount": 30,
+  "words": 1297
+ },
+ {
+  "id": "phoenix-and-carpet",
+  "title": "The Phoenix and the Carpet",
+  "author": "E. Nesbit",
+  "cover": "books/phoenix-and-carpet/cover.jpg",
+  "level": "Grade 6",
+  "pageCount": 442,
+  "words": 61309
+ },
+ {
+  "id": "pie-and-the-patty-pan",
+  "title": "The Tale Of the Pie and the Patty-Pan",
+  "author": "Beatrix Potter",
+  "cover": "books/pie-and-the-patty-pan/cover.jpg",
+  "level": "Grade 4",
+  "pageCount": 36,
+  "words": 3259
+ },
+ {
+  "id": "pinocchio",
+  "title": "The Adventures of Pinocchio",
+  "author": "Carlo Collodi",
+  "cover": "books/pinocchio/cover.jpg",
+  "level": "Grade 5",
+  "pageCount": 290,
+  "words": 40282
+ },
+ {
+  "id": "railway-children",
+  "title": "The Railway Children",
+  "author": "E. Nesbit",
+  "cover": "books/railway-children/cover.jpg",
+  "level": "Grade 6",
+  "pageCount": 433,
+  "words": 58860
+ },
+ {
+  "id": "samuel-whiskers",
+  "title": "The Tale of Samuel Whiskers",
+  "author": "Beatrix Potter",
+  "cover": "books/samuel-whiskers/cover.jpg",
+  "level": "Grade 4",
+  "pageCount": 66,
+  "words": 2953
+ },
+ {
+  "id": "secret-garden",
+  "title": "The Secret Garden",
+  "author": "Frances Hodgson Burnett",
+  "cover": "books/secret-garden/cover.jpg",
+  "level": "Grade 5-6",
+  "pageCount": 546,
+  "words": 81048
+ },
+ {
+  "id": "squirrel-nutkin",
+  "title": "The Tale Of Squirrel Nutkin",
+  "author": "Beatrix Potter",
+  "cover": "books/squirrel-nutkin/cover.jpg",
+  "level": "Grade 3-4",
+  "pageCount": 30,
+  "words": 1595
+ },
+ {
+  "id": "tailor-of-gloucester",
+  "title": "The Tailor Of Gloucester",
+  "author": "Beatrix Potter",
+  "cover": "books/tailor-of-gloucester/cover.jpg",
+  "level": "Grade 4",
+  "pageCount": 37,
+  "words": 3183
+ },
+ {
+  "id": "tom-kitten",
+  "title": "The Tale Of Tom Kitten",
+  "author": "Beatrix Potter",
+  "cover": "books/tom-kitten/cover.jpg",
+  "level": "Grade 3-4",
+  "pageCount": 31,
+  "words": 1093
+ },
+ {
+  "id": "treasure-island",
+  "title": "Treasure Island",
+  "author": "Robert Louis Stevenson",
+  "cover": "books/treasure-island/cover.jpg",
+  "level": "Grade 7-8",
+  "pageCount": 510,
+  "words": 68414
+ },
+ {
+  "id": "treasure-seekers",
+  "title": "The Story of the Treasure Seekers",
+  "author": "E. Nesbit",
+  "cover": "books/treasure-seekers/cover.jpg",
+  "level": "Grade 5",
+  "pageCount": 335,
+  "words": 51998
+ },
+ {
+  "id": "two-bad-mice",
+  "title": "The Tale of Two Bad Mice",
+  "author": "Beatrix Potter",
+  "cover": "books/two-bad-mice/cover.jpg",
+  "level": "Grade 3-4",
+  "pageCount": 32,
+  "words": 720
+ },
+ {
+  "id": "wind-in-the-willows",
+  "title": "The Wind in the Willows",
+  "author": "Kenneth Grahame",
+  "cover": "books/wind-in-the-willows/cover.jpg",
+  "level": "Grade 6-7",
+  "pageCount": 389,
+  "words": 58799
+ },
+ {
+  "id": "wizard-of-oz",
+  "title": "The Wonderful Wizard of Oz",
+  "author": "L. Frank Baum",
+  "cover": "books/wizard-of-oz/cover.jpg",
+  "level": "Grade 4-5",
+  "pageCount": 271,
+  "words": 39828
+ }
+]

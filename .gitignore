@@ -1,0 +1,5 @@
+content/
+shots/
+__pycache__/
+*.pyc
+.vercel

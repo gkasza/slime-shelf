@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Slime Shelf</title>
+<meta name="theme-color" content="#0f2f1d">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div id="shelf-view" class="view">
+  <header class="shelf-head">
+    <div class="brand">
+      <span class="blob" aria-hidden="true"></span>
+      <h1>Slime Shelf</h1>
+    </div>
+    <button id="add-btn" class="ghost-btn" title="Add a book from photos">+ Add book</button>
+  </header>
+
+  <div id="continue-banner" class="continue hidden"></div>
+
+  <div class="filters" id="filters"></div>
+
+  <main>
+    <section id="shelf" class="grid" aria-label="Library"></section>
+    <section id="mine-section" class="hidden">
+      <h2 class="section-title">Books I added</h2>
+      <div id="mine" class="grid"></div>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <p>Public domain books from Project Gutenberg. Add your own books with photos or scans.</p>
+  </footer>
+</div>
+
+<div id="reader-view" class="view hidden">
+  <header id="reader-bar" class="reader-bar">
+    <button id="back-btn" class="icon-btn" aria-label="Back to library">&#8592;</button>
+    <div class="reader-meta">
+      <span id="reader-title"></span>
+      <span id="reader-sub"></span>
+    </div>
+    <div class="reader-tools">
+      <button id="font-down" class="icon-btn" aria-label="Smaller text">A-</button>
+      <button id="font-up" class="icon-btn" aria-label="Bigger text">A+</button>
+      <button id="theme-btn" class="icon-btn" aria-label="Toggle night mode">&#9680;</button>
+    </div>
+  </header>
+  <div class="progress-rail"><div id="progress-fill"></div></div>
+  <main id="pages" class="pages" tabindex="-1"></main>
+  <div id="page-pill" class="page-pill">1 / 1</div>
+  <button id="up-btn" class="up-btn" aria-label="Back to top">&#8593;</button>
+</div>
+
+<div id="add-modal" class="modal hidden">
+  <div class="modal-card">
+    <h2>Add a book</h2>
+    <p class="hint">Pick photos or scans of the pages, in order. They stay on this device only.</p>
+    <label class="field">Title <input id="m-title" type="text" placeholder="Book title"></label>
+    <label class="field">Author <input id="m-author" type="text" placeholder="Optional"></label>
+    <input id="m-files" type="file" accept="image/*" multiple hidden>
+    <button id="m-pick" class="primary-btn">Choose page images</button>
+    <p id="m-count" class="hint"></p>
+    <div class="modal-actions">
+      <button id="m-cancel" class="ghost-btn">Cancel</button>
+      <button id="m-save" class="primary-btn" disabled>Save book</button>
+    </div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
