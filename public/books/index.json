@@ -9,6 +9,15 @@
   "words": 26799
  },
  {
+  "id": "andersen-fairy-tales",
+  "title": "Andersen's Fairy Tales",
+  "author": "Hans Christian Andersen",
+  "cover": "books/andersen-fairy-tales/cover.jpg",
+  "level": "Grade 4-6",
+  "pageCount": 359,
+  "words": 55265
+ },
+ {
   "id": "anne-of-green-gables",
   "title": "Anne of Green Gables",
   "author": "L. M. Montgomery",
@@ -23,8 +32,8 @@
   "author": "Beatrix Potter",
   "cover": "books/benjamin-bunny/cover.jpg",
   "level": "Grade 3-4",
-  "pageCount": 30,
-  "words": 1508
+  "pageCount": 29,
+  "words": 1475
  },
  {
   "id": "black-beauty",
@@ -36,13 +45,22 @@
   "words": 60386
  },
  {
+  "id": "blue-fairy-book",
+  "title": "The Blue Fairy Book",
+  "author": "Andrew Lang",
+  "cover": "books/blue-fairy-book/cover.jpg",
+  "level": "Grade 4-6",
+  "pageCount": 857,
+  "words": 137737
+ },
+ {
   "id": "book-of-dragons",
   "title": "The Book of Dragons",
   "author": "E. Nesbit",
   "cover": "books/book-of-dragons/cover.jpg",
   "level": "Grade 5",
   "pageCount": 295,
-  "words": 42166
+  "words": 42142
  },
  {
   "id": "childs-picture-book",
@@ -51,7 +69,16 @@
   "cover": "books/childs-picture-book/cover.jpg",
   "level": "Picture book",
   "pageCount": 17,
-  "words": 462
+  "words": 448
+ },
+ {
+  "id": "crimson-fairy-book",
+  "title": "The Crimson Fairy Book",
+  "author": "Andrew Lang",
+  "cover": "books/crimson-fairy-book/cover.jpg",
+  "level": "Grade 5-6",
+  "pageCount": 632,
+  "words": 98138
  },
  {
   "id": "doctor-dolittle",
@@ -59,8 +86,8 @@
   "author": "Hugh Lofting",
   "cover": "books/doctor-dolittle/cover.jpg",
   "level": "Grade 4-5",
-  "pageCount": 212,
-  "words": 26371
+  "pageCount": 211,
+  "words": 26366
  },
  {
   "id": "enchanted-castle",
@@ -69,7 +96,7 @@
   "cover": "books/enchanted-castle/cover.jpg",
   "level": "Grade 6",
   "pageCount": 512,
-  "words": 66877
+  "words": 66873
  },
  {
   "id": "five-children-and-it",
@@ -95,8 +122,35 @@
   "author": "Beatrix Potter",
   "cover": "books/ginger-and-pickles/cover.jpg",
   "level": "Grade 3-4",
-  "pageCount": 36,
-  "words": 1536
+  "pageCount": 35,
+  "words": 1530
+ },
+ {
+  "id": "grannys-wonderful-chair",
+  "title": "Granny's Wonderful Chair",
+  "author": "Frances Browne",
+  "cover": "books/grannys-wonderful-chair/cover.jpg",
+  "level": "Grade 4-5",
+  "pageCount": 156,
+  "words": 23249
+ },
+ {
+  "id": "green-fairy-book",
+  "title": "The Green Fairy Book",
+  "author": "Andrew Lang",
+  "cover": "books/green-fairy-book/cover.jpg",
+  "level": "Grade 4-6",
+  "pageCount": 767,
+  "words": 119352
+ },
+ {
+  "id": "grey-fairy-book",
+  "title": "The Grey Fairy Book",
+  "author": "Andrew Lang",
+  "cover": "books/grey-fairy-book/cover.jpg",
+  "level": "Grade 5-6",
+  "pageCount": 654,
+  "words": 97670
  },
  {
   "id": "jemima-puddle-duck",
@@ -104,8 +158,8 @@
   "author": "Beatrix Potter",
   "cover": "books/jemima-puddle-duck/cover.jpg",
   "level": "Grade 3-4",
-  "pageCount": 31,
-  "words": 1630
+  "pageCount": 30,
+  "words": 1597
  },
  {
   "id": "jeremy-fisher",
@@ -113,8 +167,8 @@
   "author": "Beatrix Potter",
   "cover": "books/jeremy-fisher/cover.jpg",
   "level": "Grade 3-4",
-  "pageCount": 33,
-  "words": 1185
+  "pageCount": 32,
+  "words": 1175
  },
  {
   "id": "jungle-book",
@@ -122,8 +176,8 @@
   "author": "Rudyard Kipling",
   "cover": "books/jungle-book/cover.jpg",
   "level": "Grade 7",
-  "pageCount": 358,
-  "words": 51543
+  "pageCount": 357,
+  "words": 51537
  },
  {
   "id": "just-so-stories",
@@ -135,13 +189,22 @@
   "words": 27582
  },
  {
+  "id": "lilac-fairy-book",
+  "title": "The Lilac Fairy Book",
+  "author": "Andrew Lang",
+  "cover": "books/lilac-fairy-book/cover.jpg",
+  "level": "Grade 5-6",
+  "pageCount": 647,
+  "words": 99278
+ },
+ {
   "id": "looking-glass",
-  "title": "Through the Looking-glass",
+  "title": "Through the Looking-Glass",
   "author": "Lewis Carroll",
   "cover": "books/looking-glass/cover.jpg",
   "level": "Grade 7",
   "pageCount": 217,
-  "words": 30159
+  "words": 30131
  },
  {
   "id": "miss-moppet",
@@ -149,8 +212,17 @@
   "author": "Beatrix Potter",
   "cover": "books/miss-moppet/cover.jpg",
   "level": "Grade 3-4",
-  "pageCount": 20,
-  "words": 616
+  "pageCount": 19,
+  "words": 611
+ },
+ {
+  "id": "more-english-fairy-tales",
+  "title": "More English Fairy Tales",
+  "author": "Joseph Jacobs",
+  "cover": "books/more-english-fairy-tales/cover.jpg",
+  "level": "Grade 4-6",
+  "pageCount": 399,
+  "words": 57516
  },
  {
   "id": "mr-tod",
@@ -168,7 +240,7 @@
   "cover": "books/mrs-tiggy-winkle/cover.jpg",
   "level": "Grade 3-4",
   "pageCount": 32,
-  "words": 1766
+  "words": 1750
  },
  {
   "id": "mrs-tittlemouse",
@@ -178,6 +250,33 @@
   "level": "Grade 3-4",
   "pageCount": 34,
   "words": 1593
+ },
+ {
+  "id": "nonsense-books",
+  "title": "Nonsense Books",
+  "author": "Edward Lear",
+  "cover": "books/nonsense-books/cover.jpg",
+  "level": "Grade 3-5",
+  "pageCount": 578,
+  "words": 33368
+ },
+ {
+  "id": "olive-fairy-book",
+  "title": "The Olive Fairy Book",
+  "author": "Andrew Lang",
+  "cover": "books/olive-fairy-book/cover.jpg",
+  "level": "Grade 5-6",
+  "pageCount": 645,
+  "words": 93561
+ },
+ {
+  "id": "orange-fairy-book",
+  "title": "The Orange Fairy Book",
+  "author": "Andrew Lang",
+  "cover": "books/orange-fairy-book/cover.jpg",
+  "level": "Grade 5-6",
+  "pageCount": 653,
+  "words": 99388
  },
  {
   "id": "peter-pan",
@@ -195,7 +294,7 @@
   "cover": "books/peter-rabbit/cover.jpg",
   "level": "Grade 3-4",
   "pageCount": 30,
-  "words": 1297
+  "words": 1292
  },
  {
   "id": "phoenix-and-carpet",
@@ -203,8 +302,8 @@
   "author": "E. Nesbit",
   "cover": "books/phoenix-and-carpet/cover.jpg",
   "level": "Grade 6",
-  "pageCount": 442,
-  "words": 61309
+  "pageCount": 441,
+  "words": 61185
  },
  {
   "id": "pie-and-the-patty-pan",
@@ -216,13 +315,22 @@
   "words": 3259
  },
  {
+  "id": "pink-fairy-book",
+  "title": "The Pink Fairy Book",
+  "author": "Andrew Lang",
+  "cover": "books/pink-fairy-book/cover.jpg",
+  "level": "Grade 5-6",
+  "pageCount": 641,
+  "words": 98822
+ },
+ {
   "id": "pinocchio",
   "title": "The Adventures of Pinocchio",
   "author": "Carlo Collodi",
   "cover": "books/pinocchio/cover.jpg",
   "level": "Grade 5",
-  "pageCount": 290,
-  "words": 40282
+  "pageCount": 288,
+  "words": 40031
  },
  {
   "id": "railway-children",
@@ -234,13 +342,22 @@
   "words": 58860
  },
  {
+  "id": "rootabaga-stories",
+  "title": "Rootabaga Stories",
+  "author": "Carl Sandburg",
+  "cover": "books/rootabaga-stories/cover.jpg",
+  "level": "Grade 4-6",
+  "pageCount": 222,
+  "words": 28559
+ },
+ {
   "id": "samuel-whiskers",
   "title": "The Tale of Samuel Whiskers",
   "author": "Beatrix Potter",
   "cover": "books/samuel-whiskers/cover.jpg",
   "level": "Grade 4",
-  "pageCount": 66,
-  "words": 2953
+  "pageCount": 65,
+  "words": 2927
  },
  {
   "id": "secret-garden",
@@ -257,8 +374,8 @@
   "author": "Beatrix Potter",
   "cover": "books/squirrel-nutkin/cover.jpg",
   "level": "Grade 3-4",
-  "pageCount": 30,
-  "words": 1595
+  "pageCount": 29,
+  "words": 1551
  },
  {
   "id": "tailor-of-gloucester",
@@ -267,7 +384,7 @@
   "cover": "books/tailor-of-gloucester/cover.jpg",
   "level": "Grade 4",
   "pageCount": 37,
-  "words": 3183
+  "words": 3159
  },
  {
   "id": "tom-kitten",
@@ -275,8 +392,8 @@
   "author": "Beatrix Potter",
   "cover": "books/tom-kitten/cover.jpg",
   "level": "Grade 3-4",
-  "pageCount": 31,
-  "words": 1093
+  "pageCount": 30,
+  "words": 1088
  },
  {
   "id": "treasure-island",
@@ -284,8 +401,8 @@
   "author": "Robert Louis Stevenson",
   "cover": "books/treasure-island/cover.jpg",
   "level": "Grade 7-8",
-  "pageCount": 510,
-  "words": 68414
+  "pageCount": 509,
+  "words": 68404
  },
  {
   "id": "treasure-seekers",
@@ -293,8 +410,8 @@
   "author": "E. Nesbit",
   "cover": "books/treasure-seekers/cover.jpg",
   "level": "Grade 5",
-  "pageCount": 335,
-  "words": 51998
+  "pageCount": 333,
+  "words": 51740
  },
  {
   "id": "two-bad-mice",
@@ -306,6 +423,24 @@
   "words": 720
  },
  {
+  "id": "violet-fairy-book",
+  "title": "The Violet Fairy Book",
+  "author": "Andrew Lang",
+  "cover": "books/violet-fairy-book/cover.jpg",
+  "level": "Grade 5-6",
+  "pageCount": 668,
+  "words": 102722
+ },
+ {
+  "id": "water-babies",
+  "title": "The Water-Babies",
+  "author": "Charles Kingsley",
+  "cover": "books/water-babies/cover.jpg",
+  "level": "Grade 6-7",
+  "pageCount": 436,
+  "words": 66004
+ },
+ {
   "id": "wind-in-the-willows",
   "title": "The Wind in the Willows",
   "author": "Kenneth Grahame",
@@ -315,6 +450,15 @@
   "words": 58799
  },
  {
+  "id": "winnie-the-pooh",
+  "title": "Winnie-the-Pooh",
+  "author": "A. A. Milne",
+  "cover": "books/winnie-the-pooh/cover.jpg",
+  "level": "Grade 4-5",
+  "pageCount": 213,
+  "words": 22260
+ },
+ {
   "id": "wizard-of-oz",
   "title": "The Wonderful Wizard of Oz",
   "author": "L. Frank Baum",
@@ -322,5 +466,14 @@
   "level": "Grade 4-5",
   "pageCount": 271,
   "words": 39828
+ },
+ {
+  "id": "yellow-fairy-book",
+  "title": "The Yellow Fairy Book",
+  "author": "Andrew Lang",
+  "cover": "books/yellow-fairy-book/cover.jpg",
+  "level": "Grade 4-6",
+  "pageCount": 709,
+  "words": 110961
  }
 ]

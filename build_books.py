@@ -61,6 +61,25 @@ BOOKS = [
     ("jungle-book", 236, "Grade 7"),
     ("looking-glass", 12, "Grade 7"),
     ("treasure-island", 120, "Grade 7-8"),
+    # second batch: picture books, fairy tales, nonsense verse
+    ("winnie-the-pooh", 67098, "Grade 4-5"),
+    ("potter-treasury", 20049, "Grade 3-5"),
+    ("rootabaga-stories", 27085, "Grade 4-6"),
+    ("nonsense-books", 13650, "Grade 3-5"),
+    ("andersen-fairy-tales", 1597, "Grade 4-6"),
+    ("blue-fairy-book", 503, "Grade 4-6"),
+    ("green-fairy-book", 7277, "Grade 4-6"),
+    ("yellow-fairy-book", 640, "Grade 4-6"),
+    ("orange-fairy-book", 3027, "Grade 5-6"),
+    ("crimson-fairy-book", 2435, "Grade 5-6"),
+    ("violet-fairy-book", 641, "Grade 5-6"),
+    ("pink-fairy-book", 5615, "Grade 5-6"),
+    ("grey-fairy-book", 6746, "Grade 5-6"),
+    ("olive-fairy-book", 27826, "Grade 5-6"),
+    ("lilac-fairy-book", 3454, "Grade 5-6"),
+    ("more-english-fairy-tales", 14241, "Grade 4-6"),
+    ("grannys-wonderful-chair", 26018, "Grade 4-5"),
+    ("water-babies", 25564, "Grade 6-7"),
 ]
 
 PALETTE = [

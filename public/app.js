@@ -186,10 +186,15 @@
 
   function matchesFilter(meta) {
     const lv = meta.level || '';
+    const title = (meta.title || '').toLowerCase();
     if (state.filter === 'all') return true;
     if (state.filter === 'picture') return lv === 'Picture book';
     if (state.filter === 'early') return /Grade 3|Grade 4\b/.test(lv);
     if (state.filter === 'stretch') return /Grade 5|Grade 6|Grade 7|Grade 8/.test(lv);
+    if (state.filter === 'fairy') return /fairy|andersen|nonsense/.test(title);
+    if (state.filter === 'funny') {
+      return /winnie|doctor dolittle|rootabaga|nonsense|oz|jungle book|granny|peter rabbit|jeremy|bad mice|tittlemouse|moppet|kitten|ginger/.test(title);
+    }
     return true;
   }
 
@@ -253,6 +258,8 @@
     const wrap = $('#filters');
     const defs = [
       ['all', 'All books'],
+      ['funny', 'Funny & animals'],
+      ['fairy', 'Fairy tales'],
       ['picture', 'Picture books'],
       ['early', 'Early readers'],
       ['stretch', 'Stretch'],
